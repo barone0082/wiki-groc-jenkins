@@ -22,7 +22,8 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         "pageTitle": "index",
         "title": "index"
       },
-      "depth": 1
+      "depth": 1,
+      "outline": []
     }, {
       "type": "folder",
       "data": {
@@ -85,35 +86,6 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "title": "xlsxParse_ruby"
               },
               "depth": 3
-            }
-          ]
-        }, {
-          "type": "folder",
-          "data": {
-            "path": "code/ddsdsdds",
-            "title": "ddsdsdds"
-          },
-          "depth": 2,
-          "children": [
-            {
-              "type": "file",
-              "data": {
-                "language": {
-                  "nameMatchers": [".rb", ".ru", ".gemspec"],
-                  "pygmentsLexer": "ruby",
-                  "singleLineComment": ["#"],
-                  "ignorePrefix": "}",
-                  "foldPrefix": "^",
-                  "name": "Ruby"
-                },
-                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\ddsdsdds\\hahahaha.rb",
-                "projectPath": "code\\ddsdsdds\\hahahaha.rb",
-                "targetPath": "code\\ddsdsdds\\hahahaha",
-                "pageTitle": "code\\ddsdsdds\\hahahaha",
-                "title": "hahahaha"
-              },
-              "depth": 3,
-              "outline": []
             }
           ]
         }, {
