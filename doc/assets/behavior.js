@@ -141,6 +141,24 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\ushudshus\\sauahsuashas",
                 "title": "sauahsuashas"
               },
+              "depth": 3
+            }, {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".rb", ".ru", ".gemspec"],
+                  "pygmentsLexer": "ruby",
+                  "singleLineComment": ["#"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "Ruby"
+                },
+                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\ushudshus\\sauahsuashas - Copia.rb",
+                "projectPath": "code\\ushudshus\\sauahsuashas - Copia.rb",
+                "targetPath": "code\\ushudshus\\sauahsuashas - Copia",
+                "pageTitle": "code\\ushudshus\\sauahsuashas - Copia",
+                "title": "sauahsuashas - Copia"
+              },
               "depth": 3,
               "outline": []
             }
