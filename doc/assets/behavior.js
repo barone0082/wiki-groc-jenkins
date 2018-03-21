@@ -141,8 +141,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\yagsyasg\\6666",
                 "title": "6666"
               },
-              "depth": 3,
-              "outline": []
+              "depth": 3
             }
           ]
         }
