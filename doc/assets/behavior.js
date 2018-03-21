@@ -84,8 +84,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\XLSX Parse2\\xlsxParse2_ruby",
                 "title": "xlsxParse2_ruby"
               },
-              "depth": 3,
-              "outline": []
+              "depth": 3
             }
           ]
         }, {
