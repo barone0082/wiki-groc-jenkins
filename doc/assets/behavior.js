@@ -56,7 +56,8 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\322322332\\0000",
                 "title": "0000"
               },
-              "depth": 3
+              "depth": 3,
+              "outline": []
             }
           ]
         }, {
@@ -163,13 +164,14 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                   "foldPrefix": "^",
                   "name": "Ruby"
                 },
-                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\yagsyasg\\777.rb",
-                "projectPath": "code\\yagsyasg\\777.rb",
-                "targetPath": "code\\yagsyasg\\777",
-                "pageTitle": "code\\yagsyasg\\777",
-                "title": "777"
+                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\yagsyasg\\8888.rb",
+                "projectPath": "code\\yagsyasg\\8888.rb",
+                "targetPath": "code\\yagsyasg\\8888",
+                "pageTitle": "code\\yagsyasg\\8888",
+                "title": "8888"
               },
-              "depth": 3
+              "depth": 3,
+              "outline": []
             }
           ]
         }
