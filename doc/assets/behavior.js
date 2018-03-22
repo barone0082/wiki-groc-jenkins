@@ -56,8 +56,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\JSON Parse\\jsonparse_ruby",
                 "title": "jsonparse_ruby"
               },
-              "depth": 3,
-              "outline": []
+              "depth": 3
             }
           ]
         }, {
@@ -85,8 +84,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\XLSX Parse\\xlsxParse_ruby",
                 "title": "xlsxParse_ruby"
               },
-              "depth": 3,
-              "outline": []
+              "depth": 3
             }
           ]
         }, {
@@ -114,8 +112,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\testeaaa\\hahaha",
                 "title": "hahaha"
               },
-              "depth": 3,
-              "outline": []
+              "depth": 3
             }
           ]
         }
