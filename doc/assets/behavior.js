@@ -113,8 +113,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\chaveCopia\\chavecopiateste_java",
                 "title": "chavecopiateste_java"
               },
-              "depth": 3,
-              "outline": []
+              "depth": 3
             }
           ]
         }, {
