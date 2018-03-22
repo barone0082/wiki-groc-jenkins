@@ -90,6 +90,36 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         }, {
           "type": "folder",
           "data": {
+            "path": "code/chaveCopia",
+            "title": "chaveCopia"
+          },
+          "depth": 2,
+          "children": [
+            {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".java"],
+                  "pygmentsLexer": "java",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "Java"
+                },
+                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\chaveCopia\\chavecopiateste_java.java",
+                "projectPath": "code\\chaveCopia\\chavecopiateste_java.java",
+                "targetPath": "code\\chaveCopia\\chavecopiateste_java",
+                "pageTitle": "code\\chaveCopia\\chavecopiateste_java",
+                "title": "chavecopiateste_java"
+              },
+              "depth": 3,
+              "outline": []
+            }
+          ]
+        }, {
+          "type": "folder",
+          "data": {
             "path": "code/teste",
             "title": "teste"
           },
