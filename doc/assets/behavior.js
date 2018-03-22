@@ -142,7 +142,8 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\teste\\teste_java",
                 "title": "teste_java"
               },
-              "depth": 3
+              "depth": 3,
+              "outline": []
             }
           ]
         }
