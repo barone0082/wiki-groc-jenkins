@@ -90,6 +90,66 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         }, {
           "type": "folder",
           "data": {
+            "path": "code/chaveCopia2 - Copia",
+            "title": "chaveCopia2 - Copia"
+          },
+          "depth": 2,
+          "children": [
+            {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".java"],
+                  "pygmentsLexer": "java",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "Java"
+                },
+                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\chaveCopia2 - Copia\\chavecopiateste2_java.java",
+                "projectPath": "code\\chaveCopia2 - Copia\\chavecopiateste2_java.java",
+                "targetPath": "code\\chaveCopia2 - Copia\\chavecopiateste2_java",
+                "pageTitle": "code\\chaveCopia2 - Copia\\chavecopiateste2_java",
+                "title": "chavecopiateste2_java"
+              },
+              "depth": 3,
+              "outline": []
+            }
+          ]
+        }, {
+          "type": "folder",
+          "data": {
+            "path": "code/chaveCopia2",
+            "title": "chaveCopia2"
+          },
+          "depth": 2,
+          "children": [
+            {
+              "type": "file",
+              "data": {
+                "language": {
+                  "nameMatchers": [".java"],
+                  "pygmentsLexer": "java",
+                  "multiLineComment": ["/*", "*", "*/"],
+                  "singleLineComment": ["//"],
+                  "ignorePrefix": "}",
+                  "foldPrefix": "^",
+                  "name": "Java"
+                },
+                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\chaveCopia2\\chavecopiateste2_java.java",
+                "projectPath": "code\\chaveCopia2\\chavecopiateste2_java.java",
+                "targetPath": "code\\chaveCopia2\\chavecopiateste2_java",
+                "pageTitle": "code\\chaveCopia2\\chavecopiateste2_java",
+                "title": "chavecopiateste2_java"
+              },
+              "depth": 3,
+              "outline": []
+            }
+          ]
+        }, {
+          "type": "folder",
+          "data": {
             "path": "code/chaveCopia",
             "title": "chaveCopia"
           },
@@ -112,35 +172,6 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "targetPath": "code\\chaveCopia\\chavecopiateste_java",
                 "pageTitle": "code\\chaveCopia\\chavecopiateste_java",
                 "title": "chavecopiateste_java"
-              },
-              "depth": 3
-            }
-          ]
-        }, {
-          "type": "folder",
-          "data": {
-            "path": "code/teste",
-            "title": "teste"
-          },
-          "depth": 2,
-          "children": [
-            {
-              "type": "file",
-              "data": {
-                "language": {
-                  "nameMatchers": [".java"],
-                  "pygmentsLexer": "java",
-                  "multiLineComment": ["/*", "*", "*/"],
-                  "singleLineComment": ["//"],
-                  "ignorePrefix": "}",
-                  "foldPrefix": "^",
-                  "name": "Java"
-                },
-                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\teste\\teste_java.java",
-                "projectPath": "code\\teste\\teste_java.java",
-                "targetPath": "code\\teste\\teste_java",
-                "pageTitle": "code\\teste\\teste_java",
-                "title": "teste_java"
               },
               "depth": 3
             }
