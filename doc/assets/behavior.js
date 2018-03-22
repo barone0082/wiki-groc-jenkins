@@ -90,8 +90,8 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
         }, {
           "type": "folder",
           "data": {
-            "path": "code/chaveCopia2 - Copia",
-            "title": "chaveCopia2 - Copia"
+            "path": "code/testeaaa",
+            "title": "testeaaa"
           },
           "depth": 2,
           "children": [
@@ -99,79 +99,21 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
               "type": "file",
               "data": {
                 "language": {
-                  "nameMatchers": [".java"],
-                  "pygmentsLexer": "java",
-                  "multiLineComment": ["/*", "*", "*/"],
-                  "singleLineComment": ["//"],
+                  "nameMatchers": [".rb", ".ru", ".gemspec"],
+                  "pygmentsLexer": "ruby",
+                  "singleLineComment": ["#"],
                   "ignorePrefix": "}",
                   "foldPrefix": "^",
-                  "name": "Java"
+                  "name": "Ruby"
                 },
-                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\chaveCopia2 - Copia\\chavecopiateste2_java.java",
-                "projectPath": "code\\chaveCopia2 - Copia\\chavecopiateste2_java.java",
-                "targetPath": "code\\chaveCopia2 - Copia\\chavecopiateste2_java",
-                "pageTitle": "code\\chaveCopia2 - Copia\\chavecopiateste2_java",
-                "title": "chavecopiateste2_java"
+                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\testeaaa\\hahaha.rb",
+                "projectPath": "code\\testeaaa\\hahaha.rb",
+                "targetPath": "code\\testeaaa\\hahaha",
+                "pageTitle": "code\\testeaaa\\hahaha",
+                "title": "hahaha"
               },
-              "depth": 3
-            }
-          ]
-        }, {
-          "type": "folder",
-          "data": {
-            "path": "code/chaveCopia2",
-            "title": "chaveCopia2"
-          },
-          "depth": 2,
-          "children": [
-            {
-              "type": "file",
-              "data": {
-                "language": {
-                  "nameMatchers": [".java"],
-                  "pygmentsLexer": "java",
-                  "multiLineComment": ["/*", "*", "*/"],
-                  "singleLineComment": ["//"],
-                  "ignorePrefix": "}",
-                  "foldPrefix": "^",
-                  "name": "Java"
-                },
-                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\chaveCopia2\\chavecopiateste2_java.java",
-                "projectPath": "code\\chaveCopia2\\chavecopiateste2_java.java",
-                "targetPath": "code\\chaveCopia2\\chavecopiateste2_java",
-                "pageTitle": "code\\chaveCopia2\\chavecopiateste2_java",
-                "title": "chavecopiateste2_java"
-              },
-              "depth": 3
-            }
-          ]
-        }, {
-          "type": "folder",
-          "data": {
-            "path": "code/chaveCopia",
-            "title": "chaveCopia"
-          },
-          "depth": 2,
-          "children": [
-            {
-              "type": "file",
-              "data": {
-                "language": {
-                  "nameMatchers": [".java"],
-                  "pygmentsLexer": "java",
-                  "multiLineComment": ["/*", "*", "*/"],
-                  "singleLineComment": ["//"],
-                  "ignorePrefix": "}",
-                  "foldPrefix": "^",
-                  "name": "Java"
-                },
-                "sourcePath": "C:\\Users\\Inmetrics\\Documents\\codewikiinm\\code\\chaveCopia\\chavecopiateste_java.java",
-                "projectPath": "code\\chaveCopia\\chavecopiateste_java.java",
-                "targetPath": "code\\chaveCopia\\chavecopiateste_java",
-                "pageTitle": "code\\chaveCopia\\chavecopiateste_java",
-                "title": "chavecopiateste_java"
-              },
-              "depth": 3
+              "depth": 3,
+              "outline": []
             }
           ]
         }
