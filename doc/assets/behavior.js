@@ -113,8 +113,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\chaveCopia2 - Copia\\chavecopiateste2_java",
                 "title": "chavecopiateste2_java"
               },
-              "depth": 3,
-              "outline": []
+              "depth": 3
             }
           ]
         }, {
@@ -143,8 +142,7 @@ f.event={add:function(a,c,d,e,g){var h,i,j,k,l,m,n,o,p,q,r,s;if(!(a.nodeType===3
                 "pageTitle": "code\\chaveCopia2\\chavecopiateste2_java",
                 "title": "chavecopiateste2_java"
               },
-              "depth": 3,
-              "outline": []
+              "depth": 3
             }
           ]
         }, {
